@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="cbse.css">
+    <title>Result</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center;">Central Board of secondary education
+        </h1>
+    </header>
+    <h1 class="cbse">Central Board of secondary education</h1>
+    <h2 class="cbse2">Secondary School Examination(Class XII) 2020 </h2>
+    <div class="details">
+        Roll No&nbsp;&nbsp;&nbsp;&nbsp;:201500381<br>
+        Candidate Name&nbsp;&nbsp;&nbsp;&nbsp:Mani Singh<br>
+        Mother's Name&nbsp;&nbsp;&nbsp;&nbsp:Poonam Singh<br>
+        Father's Name&nbsp;&nbsp;&nbsp;&nbsp:Rajesh Kumar Singh<br>
+        Date of Birth&nbsp;&nbsp;&nbsp;&nbsp:07/11/2003<br>
+        School Name&nbsp;&nbsp;&nbsp;&nbsp:St.John's.Sr.Sec.School
+    </div>
+    <table>
+        <thead >
+         <tr class="row1">   
+        <th>SUB CODE</th>
+        <th>SUB NAME</th>
+        <th>THEORY</th>
+        <th>L.A/PRACTICAL</th>
+        <th>TOTAL</th>
+        <th>POSITIONAL GRADES</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>184</td>
+        <td>ENGLISH LANG & LIT</td>
+        <td>062</td>
+        <td>020</td>
+        <td>082</td>
+        <td>B1</td>
+    </tr>
+    <tr>
+        <td>065</td>
+        <td>Hindi course-b</td>
+        <td>054</td>
+        <td>020</td>
+        <td>074</td>
+        <td>c2</td>
+    </tr>
+    <tr>
+        <td>241</td>
+        <td>mathemathics basic</td>
+        <td>056</td>
+        <td>020</td>
+        <td>076</td>
+        <td>B1</td>
+    </tr>
+    <tr>
+        <td>086</td>
+        <td>science</td>
+        <td>086</td>
+        <td>050</td>
+        <td>020</td>
+        <td>B1</td>
+    </tr>
+    <tr>
+        <td>087</td>
+        <td>social science</td>
+        <td>064</td>
+        <td>020</td>
+        <td>084</td>
+        <td>B1</td>
+    </tr>
+   <th colspan="6" class="add"> ADDITIONAL SUBJECT</th>
+   <tr>
+    <td>004</td>
+    <td>computer</td>
+    <td>061</td>
+    <td>020</td>
+    <td>081</td>
+    <td>b2</td>
+   </tr>
+   <tr class="res">
+   <th> </th>
+   <th colspan="5" >result:pass</th> 
+</tr>
+</tbody>
+    </table>
+</body>
+</html>
